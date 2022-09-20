@@ -5,4 +5,4 @@ synthesized data can recognize different classes impartially, then quantum GAN f
 
 The model is applied in an Insurance Claims dataset that contains less than 1% of positive samples.
 
-![image]https://github.com/mantisc/quantum-GAN-sample-imbalance/blob/main/qGAN_output.jpg
+![image] https://github.com/mantisc/quantum-GAN-sample-imbalance/blob/main/qGAN_output.jpg
